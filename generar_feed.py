@@ -44,7 +44,8 @@ def actualizar_catalogo():
     posts, page = [], 1
     while True:
         url = ("https://www.gatellasociados.com/wp-json/wp/v2/posts"
-               f"?per_page=100&page={page}&_fields=id,date,modified,slug,link,title,excerpt,categories")
+               f"?per_page=100&page={page}&_embed=wp:featuredmedia"
+               "&_fields=id,date,modified,slug,link,title,excerpt,categories,_links,_embedded")
         req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
         try:
             with urllib.request.urlopen(req, context=ctx, timeout=30) as r:
@@ -65,12 +66,16 @@ def actualizar_catalogo():
         headers={"User-Agent": "Mozilla/5.0"})
     with urllib.request.urlopen(req, context=ctx, timeout=30) as r:
         cats = {c["id"]: c["name"] for c in json.load(r)}
+    def imagen(p):
+        m = p.get("_embedded", {}).get("wp:featuredmedia", [])
+        return m[0].get("source_url", "") if m and isinstance(m, list) else ""
     catalogo = [{
         "id": p["id"],
         "fecha": p["date"][:10],
         "modificado": p["modified"][:10],
         "titulo": p["title"]["rendered"],
         "link": p["link"],
+        "imagen": imagen(p),
         "extracto": p["excerpt"]["rendered"].replace("<p>", "").replace("</p>", "").strip()[:300],
         "categorias": [cats.get(c, str(c)) for c in p["categories"]],
     } for p in posts]
@@ -126,16 +131,21 @@ def main():
             continue
         # pubDate escalonada para que dlvr.it respete el orden
         fecha_pub = format_datetime(ahora.replace(hour=max(0, 9 - n // 3), minute=(n * 7) % 60))
+        img = a.get("imagen", "")
+        img_xml = ""
+        if img:
+            img_xml = (f'\n    <enclosure url="{escape(img)}" type="image/jpeg" length="0"/>'
+                       f'\n    <media:content url="{escape(img)}" medium="image"/>')
         items.append(f"""  <item>
     <title>{escape(componer_texto(a))}</title>
     <link>{escape(a['link'])}</link>
     <guid isPermaLink="false">gatell-social-{a['id']}-{estado['publicaciones'].get(str(a['id']), 1)}</guid>
     <pubDate>{fecha_pub}</pubDate>
-    <description>{escape(a['extracto'][:250])}</description>
+    <description>{escape(a['extracto'][:250])}</description>{img_xml}
   </item>""")
 
     rss = f"""<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
   <title>Gatell &amp; Asociados — Selección diaria</title>
   <link>https://www.gatellasociados.com</link>
