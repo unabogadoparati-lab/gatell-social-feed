@@ -5,7 +5,10 @@
   "5515": 1,
   "5432": 1,
   "37": 1,
-  "35": 1
+  "35": 1,
+  "31": 1,
+  "29": 1,
+  "5065": 1
  },
  "historial": [
   {
@@ -37,6 +40,21 @@
    "dia": "2026-09-24",
    "id": 35,
    "titulo": "Características del sistema Jurídico Español"
+  },
+  {
+   "dia": "2026-09-25",
+   "id": 31,
+   "titulo": "Derecho civil: consejos prácticos para ciudadanos"
+  },
+  {
+   "dia": "2026-09-25",
+   "id": 29,
+   "titulo": "Los beneficios de una asesoría jurídica personalizada"
+  },
+  {
+   "dia": "2026-09-25",
+   "id": 5065,
+   "titulo": "El Fin del Secreto Bancario: Cómo el acuerdo FATCA entre España y EE. UU. impacta en sus cuentas y depósitos"
   }
  ]
 }
