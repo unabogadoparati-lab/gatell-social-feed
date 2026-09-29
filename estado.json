@@ -11,7 +11,10 @@
   "5065": 1,
   "5543": 1,
   "5044": 1,
-  "4953": 1
+  "4953": 1,
+  "4877": 1,
+  "4771": 1,
+  "4750": 1
  },
  "historial": [
   {
@@ -73,6 +76,21 @@
    "dia": "2026-09-28",
    "id": 4953,
    "titulo": "Seguro de Orfandad: La Oportunidad Gratuita que Tu Empresa No Puede Ignorar"
+  },
+  {
+   "dia": "2026-09-29",
+   "id": 4877,
+   "titulo": "Gastos Extraordinarios en Derecho de Familia: ¿Es Necesario el Consentimiento de Ambos Padres?"
+  },
+  {
+   "dia": "2026-09-29",
+   "id": 4771,
+   "titulo": "Protección de Inversores No Expertos: Riesgos en Fondos de Inversión y Caso Unicaja Banco"
+  },
+  {
+   "dia": "2026-09-29",
+   "id": 4750,
+   "titulo": "Blanqueo de Capitales: Un Análisis Completo desde la Perspectiva Penal y Administrativa en España"
   }
  ]
 }

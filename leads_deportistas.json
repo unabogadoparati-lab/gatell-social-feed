@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "2026-09-28T17:28:11.247316",
+    "deporte": "Balonmano",
+    "anos": "1984-1993",
+    "contacto": "antonio gatell, 616903306",
+    "telegram_user": "Sabioeuropeo",
+    "telegram_id": 641654799
+  },
+  {
+    "fecha": "2026-09-28T22:46:16.748767",
+    "nombre": "Arturo",
+    "telefono": "Arturo",
+    "email": "",
+    "contacto_bruto": "Arturo",
+    "deporte": "Baloncesto",
+    "anos_texto": "4 temporadas",
+    "anos_dep": 4,
+    "anos_cotizados": 18,
+    "base": 2200.0,
+    "ya_jubilado": false,
+    "inc_mes": 221.76,
+    "inc_ano": 3104.64,
+    "tg_user": "Sabioeuropeo",
+    "tg_id": 641654799,
+    "simulacion": {
+      "anos_dep": 4,
+      "anos_otros": 18,
+      "base": 2200.0,
+      "pct_sin": 57.56,
+      "pct_con": 67.64,
+      "dif_pct": 10.08,
+      "pension_sin": 1266.32,
+      "pension_con": 1488.08,
+      "inc_mes": 221.76,
+      "inc_ano": 3104.64,
+      "ya_jubilado": false,
+      "deporte": "Baloncesto"
+    }
+  }
+]
