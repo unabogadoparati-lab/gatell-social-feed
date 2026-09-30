@@ -14,7 +14,10 @@
   "4953": 1,
   "4877": 1,
   "4771": 1,
-  "4750": 1
+  "4750": 1,
+  "4636": 1,
+  "3619": 1,
+  "4307": 1
  },
  "historial": [
   {
@@ -91,6 +94,21 @@
    "dia": "2026-09-29",
    "id": 4750,
    "titulo": "Blanqueo de Capitales: Un Análisis Completo desde la Perspectiva Penal y Administrativa en España"
+  },
+  {
+   "dia": "2026-09-30",
+   "id": 4636,
+   "titulo": "Informe IRE &#8211; La Herramienta Definitiva para Transacciones Inmobiliarias Seguras en España"
+  },
+  {
+   "dia": "2026-09-30",
+   "id": 3619,
+   "titulo": "Cómo Calcular la Pensión Alimenticia en España: Guía Completa"
+  },
+  {
+   "dia": "2026-09-30",
+   "id": 4307,
+   "titulo": "El alquiler vacacional y su relación con las comunidades de propietarios: En busca de un equilibrio armonioso"
   }
  ]
 }
