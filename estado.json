@@ -17,7 +17,10 @@
   "4750": 1,
   "4636": 1,
   "3619": 1,
-  "4307": 1
+  "4307": 1,
+  "4281": 1,
+  "2224": 1,
+  "1686": 1
  },
  "historial": [
   {
@@ -109,6 +112,21 @@
    "dia": "2026-09-30",
    "id": 4307,
    "titulo": "El alquiler vacacional y su relación con las comunidades de propietarios: En busca de un equilibrio armonioso"
+  },
+  {
+   "dia": "2026-10-01",
+   "id": 4281,
+   "titulo": "Derechos del Consumidor en España: Cómo Reclamar en Caso de Productos Defectuosos o Servicios Insatisfactorios"
+  },
+  {
+   "dia": "2026-10-01",
+   "id": 2224,
+   "titulo": "Abogados Herencias Malaga"
+  },
+  {
+   "dia": "2026-10-01",
+   "id": 1686,
+   "titulo": "Abogados en Málaga Divorcio"
   }
  ]
 }
