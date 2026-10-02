@@ -1,0 +1,32 @@
+[
+ {
+  "id": "01",
+  "texto": "Mi casero me dice que me vaya en dos meses... y no tengo contrato firmado en papel.",
+  "vo": "Tu casero te dice que te marches en dos meses. Y no tienes contrato firmado en papel."
+ },
+ {
+  "id": "02",
+  "texto": "MITO: «Sin contrato por escrito, el inquilino no tiene derechos.»",
+  "vo": "Existe un mito muy extendido. Que sin contrato por escrito, el inquilino no tiene ningún derecho."
+ },
+ {
+  "id": "03",
+  "texto": "FALSO. En España rige la libertad de forma (arts. 1254 y 1278 CC). El alquiler verbal vale.",
+  "vo": "Es falso. En España rige la libertad de forma. Un alquiler verbal tiene la misma fuerza que uno firmado ante notario."
+ },
+ {
+  "id": "04",
+  "texto": "CASO REAL en la Costa del Sol: subida de renta, venta de la vivienda y aviso de desalojo.",
+  "vo": "Caso real en la Costa del Sol. Subida de renta, venta de la vivienda y un aviso repentino de desalojo."
+ },
+ {
+  "id": "05",
+  "texto": "Blindamos a nuestra clienta en su vivienda hasta 2028, ampliable a 2030.",
+  "vo": "En Gatell y Asociados blindamos a nuestra clienta en su vivienda habitual hasta dos mil veintiocho. Ampliable a dos mil treinta."
+ },
+ {
+  "id": "06",
+  "texto": "¿Te pasa lo mismo? Tienes más derechos de los que crees.\nGatell & Asociados · Málaga",
+  "vo": "¿Te pasa lo mismo? Tienes más derechos de los que crees. Gatell y Asociados. Abogados en Málaga."
+ }
+]
