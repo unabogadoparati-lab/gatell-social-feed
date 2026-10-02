@@ -43,9 +43,13 @@ def actualizar_catalogo():
     ctx = ssl.create_default_context(cafile="/etc/ssl/certs/ca-certificates.crt")
     posts, page = [], 1
     while True:
+        # OJO: NO usar _embed aqui. Si la imagen destacada de algun post falla al
+        # embeber, WP excluye SILENCIOSAMENTE ese post de la respuesta (y nos
+        # perdiamos articulos nuevos). Pedimos featured_media y resolvemos la
+        # imagen aparte mas abajo.
         url = ("https://www.gatellasociados.com/wp-json/wp/v2/posts"
-               f"?per_page=100&page={page}&_embed=wp:featuredmedia"
-               "&_fields=id,date,modified,slug,link,title,excerpt,categories,_links,_embedded")
+               f"?per_page=100&page={page}"
+               "&_fields=id,date,modified,slug,link,title,excerpt,categories,featured_media")
         req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
         try:
             with urllib.request.urlopen(req, context=ctx, timeout=30) as r:
@@ -66,9 +70,22 @@ def actualizar_catalogo():
         headers={"User-Agent": "Mozilla/5.0"})
     with urllib.request.urlopen(req, context=ctx, timeout=30) as r:
         cats = {c["id"]: c["name"] for c in json.load(r)}
+    # Resolver imagenes destacadas en lote (sin _embed, que excluye posts rotos)
+    media = {}
+    media_ids = sorted({p.get("featured_media", 0) for p in posts if p.get("featured_media")})
+    for i in range(0, len(media_ids), 50):
+        chunk = media_ids[i:i + 50]
+        murl = ("https://www.gatellasociados.com/wp-json/wp/v2/media"
+                f"?include={','.join(map(str, chunk))}&per_page=50&_fields=id,source_url")
+        mreq = urllib.request.Request(murl, headers={"User-Agent": "Mozilla/5.0"})
+        try:
+            with urllib.request.urlopen(mreq, context=ctx, timeout=30) as r:
+                for m in json.load(r):
+                    media[m["id"]] = m.get("source_url", "")
+        except Exception:
+            pass  # sin imagen no pasa nada; el post igual se difunde
     def imagen(p):
-        m = p.get("_embedded", {}).get("wp:featuredmedia", [])
-        return m[0].get("source_url", "") if m and isinstance(m, list) else ""
+        return media.get(p.get("featured_media", 0), "")
     catalogo = [{
         "id": p["id"],
         "fecha": p["date"][:10],
@@ -85,7 +102,14 @@ def actualizar_catalogo():
 
 def puntuacion(art, publicaciones):
     """Menor puntuación = antes en la cola."""
+    from datetime import date, timedelta
     veces = publicaciones.get(str(art["id"]), 0)
+    # Novedad: articulos publicados en los ultimos 7 dias SALTAN LA COLA
+    # (prioridad absoluta mientras sean noticia), salvo que ya se hayan
+    # difundido 2+ veces (para no saturar con el mismo post).
+    hace_7d = (date.today() - timedelta(days=7)).isoformat()
+    if art["fecha"] >= hace_7d and veces < 2:
+        return -1000 + veces * 10 - int(art["fecha"].replace("-", ""))  # mas nuevo, antes
     p = veces * 100                       # lo menos publicado primero
     if art["modificado"] >= "2024-01-01":
         p -= 30                            # contenido fresco/actualizado sube

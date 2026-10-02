@@ -20,7 +20,10 @@
   "4307": 1,
   "4281": 1,
   "2224": 1,
-  "1686": 1
+  "1686": 1,
+  "1310": 1,
+  "203": 1,
+  "126": 1
  },
  "historial": [
   {
@@ -127,6 +130,21 @@
    "dia": "2026-10-01",
    "id": 1686,
    "titulo": "Abogados en Málaga Divorcio"
+  },
+  {
+   "dia": "2026-10-02",
+   "id": 1310,
+   "titulo": "Proof of stake"
+  },
+  {
+   "dia": "2026-10-02",
+   "id": 203,
+   "titulo": "    Todo lo que Necesitas Saber sobre la Alcoholemia: Consecuencias y Pruebas"
+  },
+  {
+   "dia": "2026-10-02",
+   "id": 126,
+   "titulo": "Reclama los gastos de tu hipoteca en 2025: Guía actualizada y plazos"
   }
  ]
 }
