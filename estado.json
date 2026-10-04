@@ -24,9 +24,10 @@
   "1310": 1,
   "203": 1,
   "126": 1,
-  "5560": 1,
-  "5546": 1,
-  "5375": 1
+  "5560": 2,
+  "5546": 2,
+  "5375": 1,
+  "5257": 1
  },
  "historial": [
   {
@@ -163,6 +164,21 @@
    "dia": "2026-10-03",
    "id": 5375,
    "titulo": "Abogado Extranjería: Regularización 2026 para Nómadas Digitales y Cripto"
+  },
+  {
+   "dia": "2026-10-04",
+   "id": 5560,
+   "titulo": "Contrato Verbal de Alquiler, Subida de Renta y Venta de la Vivienda: Cómo Blindamos a un Inquilino en la Costa del Sol hasta 2028 (y 2030) frente a un Desalojo Imprevisto (Caso Real)"
+  },
+  {
+   "dia": "2026-10-04",
+   "id": 5546,
+   "titulo": "Jugaste al Balonmano o Deporte Profesional en los 80 y 90: Cómo el Real Decreto 739/2026 te Reconoce Años Extra de Cotización para tu Jubilación (Guía Legal Real)"
+  },
+  {
+   "dia": "2026-10-04",
+   "id": 5257,
+   "titulo": "Planificación Sucesoria con la Sustitución Fideicomisaria"
   }
  ]
 }
