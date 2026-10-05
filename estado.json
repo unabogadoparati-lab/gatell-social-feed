@@ -27,7 +27,10 @@
   "5560": 2,
   "5546": 2,
   "5375": 1,
-  "5257": 1
+  "5257": 1,
+  "5197": 1,
+  "33": 1,
+  "27": 1
  },
  "historial": [
   {
@@ -179,6 +182,21 @@
    "dia": "2026-10-04",
    "id": 5257,
    "titulo": "Planificación Sucesoria con la Sustitución Fideicomisaria"
+  },
+  {
+   "dia": "2026-10-05",
+   "id": 5197,
+   "titulo": "Felicitaciones Año Nuevo 2026: Humor, Amor y Reflexión"
+  },
+  {
+   "dia": "2026-10-05",
+   "id": 33,
+   "titulo": "Todo lo que debes saber sobre la representación legal"
+  },
+  {
+   "dia": "2026-10-05",
+   "id": 27,
+   "titulo": "Casos de éxito de Gatell &#038; Asociados"
   }
  ]
 }
