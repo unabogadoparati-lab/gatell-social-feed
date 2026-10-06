@@ -30,7 +30,10 @@
   "5257": 1,
   "5197": 1,
   "33": 1,
-  "27": 1
+  "27": 1,
+  "23": 1,
+  "5117": 1,
+  "4985": 1
  },
  "historial": [
   {
@@ -197,6 +200,21 @@
    "dia": "2026-10-05",
    "id": 27,
    "titulo": "Casos de éxito de Gatell &#038; Asociados"
+  },
+  {
+   "dia": "2026-10-06",
+   "id": 23,
+   "titulo": "La importancia de un buen asesoramiento legal"
+  },
+  {
+   "dia": "2026-10-06",
+   "id": 5117,
+   "titulo": "Verifactu y Soluciones Gratuitas de Facturación en España"
+  },
+  {
+   "dia": "2026-10-06",
+   "id": 4985,
+   "titulo": "Problemas Legales de las Autocaravanas en España: Lo Que Debes Saber"
   }
  ]
 }
