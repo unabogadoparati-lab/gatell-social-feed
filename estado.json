@@ -33,7 +33,10 @@
   "27": 1,
   "23": 1,
   "5117": 1,
-  "4985": 1
+  "4985": 1,
+  "2647": 1,
+  "4973": 1,
+  "4792": 1
  },
  "historial": [
   {
@@ -215,6 +218,21 @@
    "dia": "2026-10-06",
    "id": 4985,
    "titulo": "Problemas Legales de las Autocaravanas en España: Lo Que Debes Saber"
+  },
+  {
+   "dia": "2026-10-07",
+   "id": 2647,
+   "titulo": "Cómo reclamar a Amazon: Guía paso a paso para resolver problemas de forma efectiva"
+  },
+  {
+   "dia": "2026-10-07",
+   "id": 4973,
+   "titulo": "The Vital Influence of Roman Law in Spanish Legal Practice: Enduring Principles for Modern Lawyers"
+  },
+  {
+   "dia": "2026-10-07",
+   "id": 4792,
+   "titulo": "¿Quién paga la reparación del aire acondicionado en un local comercial? Guía legal con jurisprudencia»"
   }
  ]
 }
