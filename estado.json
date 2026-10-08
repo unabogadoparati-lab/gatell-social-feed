@@ -36,7 +36,10 @@
   "4985": 1,
   "2647": 1,
   "4973": 1,
-  "4792": 1
+  "4792": 1,
+  "4726": 1,
+  "3506": 1,
+  "4588": 1
  },
  "historial": [
   {
@@ -233,6 +236,21 @@
    "dia": "2026-10-07",
    "id": 4792,
    "titulo": "¿Quién paga la reparación del aire acondicionado en un local comercial? Guía legal con jurisprudencia»"
+  },
+  {
+   "dia": "2026-10-08",
+   "id": 4726,
+   "titulo": "Impuesto de Sucesiones y Donaciones en Andalucía 2025: cómo ahorrar miles de euros con asesoramiento legal"
+  },
+  {
+   "dia": "2026-10-08",
+   "id": 3506,
+   "titulo": "Cómo Presentar un Escrito ante la Administración Española [Guía Legal 2025]"
+  },
+  {
+   "dia": "2026-10-08",
+   "id": 4588,
+   "titulo": "SIALP: El Sistema de Ahorro a Largo Plazo para la Jubilación – Beneficios para Autónomos y Particulares con Excedentes para Invertir"
   }
  ]
 }
