@@ -39,7 +39,10 @@
   "4792": 1,
   "4726": 1,
   "3506": 1,
-  "4588": 1
+  "4588": 1,
+  "4085": 1,
+  "3318": 1,
+  "3245": 1
  },
  "historial": [
   {
@@ -251,6 +254,21 @@
    "dia": "2026-10-08",
    "id": 4588,
    "titulo": "SIALP: El Sistema de Ahorro a Largo Plazo para la Jubilación – Beneficios para Autónomos y Particulares con Excedentes para Invertir"
+  },
+  {
+   "dia": "2026-10-09",
+   "id": 4085,
+   "titulo": "El Alquiler Legal de Habitaciones en España: Guía para Inquilinos y Propietarios"
+  },
+  {
+   "dia": "2026-10-09",
+   "id": 3318,
+   "titulo": "Okupas: guía legal 2026 para recuperar tu vivienda"
+  },
+  {
+   "dia": "2026-10-09",
+   "id": 3245,
+   "titulo": "Abogados Alquiler Málaga"
   }
  ]
 }
