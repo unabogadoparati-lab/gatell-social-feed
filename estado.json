@@ -45,7 +45,10 @@
   "3245": 1,
   "4557": 1,
   "4529": 1,
-  "4486": 1
+  "4486": 1,
+  "5579": 1,
+  "4441": 1,
+  "4376": 1
  },
  "historial": [
   {
@@ -287,6 +290,21 @@
    "dia": "2026-10-10",
    "id": 4486,
    "titulo": "La Importancia de una Planificación Financiera: Garantizando un Futuro Seguro"
+  },
+  {
+   "dia": "2026-10-11",
+   "id": 5579,
+   "titulo": "Antenas de Telefonía en Comunidades de Propietarios: Quórum Legal, Pérdida de Valor del Ático y Jurisprudencia (Caso Real)"
+  },
+  {
+   "dia": "2026-10-11",
+   "id": 4441,
+   "titulo": "Todo lo que necesitas saber sobre la Cláusula Suelo en España: Aspectos Legales y Consecuencias"
+  },
+  {
+   "dia": "2026-10-11",
+   "id": 4376,
+   "titulo": "Incendio en Valencia: Implicaciones Legales y Recomendaciones para las Víctimas"
   }
  ]
 }
