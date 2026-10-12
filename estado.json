@@ -46,9 +46,11 @@
   "4557": 1,
   "4529": 1,
   "4486": 1,
-  "5579": 1,
+  "5579": 2,
   "4441": 1,
-  "4376": 1
+  "4376": 1,
+  "4254": 1,
+  "4233": 1
  },
  "historial": [
   {
@@ -305,6 +307,21 @@
    "dia": "2026-10-11",
    "id": 4376,
    "titulo": "Incendio en Valencia: Implicaciones Legales y Recomendaciones para las Víctimas"
+  },
+  {
+   "dia": "2026-10-12",
+   "id": 5579,
+   "titulo": "Antenas de Telefonía en Comunidades de Propietarios: Quórum Legal, Pérdida de Valor del Ático y Jurisprudencia (Caso Real)"
+  },
+  {
+   "dia": "2026-10-12",
+   "id": 4254,
+   "titulo": "Requisitos Legales para Tener un Perro en España: Todo lo que Necesitas Saber"
+  },
+  {
+   "dia": "2026-10-12",
+   "id": 4233,
+   "titulo": "La Influencia Vital del Derecho Romano en la Práctica Legal Española: Principios Perdurables para Abogados Modernos"
   }
  ]
 }
