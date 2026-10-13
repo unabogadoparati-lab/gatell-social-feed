@@ -50,7 +50,10 @@
   "4441": 1,
   "4376": 1,
   "4254": 1,
-  "4233": 1
+  "4233": 1,
+  "4160": 1,
+  "2768": 1,
+  "1967": 1
  },
  "historial": [
   {
@@ -322,6 +325,21 @@
    "dia": "2026-10-12",
    "id": 4233,
    "titulo": "La Influencia Vital del Derecho Romano en la Práctica Legal Española: Principios Perdurables para Abogados Modernos"
+  },
+  {
+   "dia": "2026-10-13",
+   "id": 4160,
+   "titulo": "Tendencias y Desafíos en las Pensiones de Abogados Españoles: Un Análisis Profundo de la Mutualidad de la Abogacía tras 30 Años de Ejercicio"
+  },
+  {
+   "dia": "2026-10-13",
+   "id": 2768,
+   "titulo": "Encuentra Tu Abogado de Extranjería en Málaga: Guía Completa"
+  },
+  {
+   "dia": "2026-10-13",
+   "id": 1967,
+   "titulo": "Consulta abogado"
   }
  ]
 }
