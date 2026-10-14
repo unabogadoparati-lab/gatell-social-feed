@@ -53,7 +53,10 @@
   "4233": 1,
   "4160": 1,
   "2768": 1,
-  "1967": 1
+  "1967": 1,
+  "95": 1,
+  "87": 1,
+  "4024": 1
  },
  "historial": [
   {
@@ -340,6 +343,21 @@
    "dia": "2026-10-13",
    "id": 1967,
    "titulo": "Consulta abogado"
+  },
+  {
+   "dia": "2026-10-14",
+   "id": 95,
+   "titulo": "Orden Sucesorio en España"
+  },
+  {
+   "dia": "2026-10-14",
+   "id": 87,
+   "titulo": "Herencia sin testamento"
+  },
+  {
+   "dia": "2026-10-14",
+   "id": 4024,
+   "titulo": "Potencia tu Práctica Legal: Herramientas de Inteligencia Artificial para Abogados"
   }
  ]
 }
