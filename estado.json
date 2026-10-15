@@ -56,7 +56,10 @@
   "1967": 1,
   "95": 1,
   "87": 1,
-  "4024": 1
+  "4024": 1,
+  "3992": 1,
+  "3917": 1,
+  "3890": 1
  },
  "historial": [
   {
@@ -358,6 +361,21 @@
    "dia": "2026-10-14",
    "id": 4024,
    "titulo": "Potencia tu Práctica Legal: Herramientas de Inteligencia Artificial para Abogados"
+  },
+  {
+   "dia": "2026-10-15",
+   "id": 3992,
+   "titulo": "Potenciando la Práctica Legal: Cómo el Chat GPT Revoluciona la Asesoría Legal"
+  },
+  {
+   "dia": "2026-10-15",
+   "id": 3917,
+   "titulo": "Descifrando el legado literario de John le Carré: Un viaje a través del suspenso y la maestría narrativa"
+  },
+  {
+   "dia": "2026-10-15",
+   "id": 3890,
+   "titulo": "Guía completa para actuar si tu coche es remolcado por una grúa: Consejos útiles y asesoramiento jurídico"
   }
  ]
 }
