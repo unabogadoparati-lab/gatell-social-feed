@@ -59,7 +59,10 @@
   "4024": 1,
   "3992": 1,
   "3917": 1,
-  "3890": 1
+  "3890": 1,
+  "3577": 1,
+  "3521": 1,
+  "3407": 1
  },
  "historial": [
   {
@@ -376,6 +379,21 @@
    "dia": "2026-10-15",
    "id": 3890,
    "titulo": "Guía completa para actuar si tu coche es remolcado por una grúa: Consejos útiles y asesoramiento jurídico"
+  },
+  {
+   "dia": "2026-10-16",
+   "id": 3577,
+   "titulo": "El Secreto Bancario: Un Pilar de Confidencialidad en el Mundo Financiero"
+  },
+  {
+   "dia": "2026-10-16",
+   "id": 3521,
+   "titulo": "El Avance Implacable de la Inteligencia Artificial: Un Vistazo al Presente y al Futuro"
+  },
+  {
+   "dia": "2026-10-16",
+   "id": 3407,
+   "titulo": "Ciberabogados: Tu Escudo Legal en el Mundo Digital"
   }
  ]
 }
