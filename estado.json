@@ -62,7 +62,10 @@
   "3890": 1,
   "3577": 1,
   "3521": 1,
-  "3407": 1
+  "3407": 1,
+  "3368": 1,
+  "3372": 1,
+  "3203": 1
  },
  "historial": [
   {
@@ -394,6 +397,21 @@
    "dia": "2026-10-16",
    "id": 3407,
    "titulo": "Ciberabogados: Tu Escudo Legal en el Mundo Digital"
+  },
+  {
+   "dia": "2026-10-17",
+   "id": 3368,
+   "titulo": "Herramientas  para abogados"
+  },
+  {
+   "dia": "2026-10-17",
+   "id": 3372,
+   "titulo": "Novedades Telexfree"
+  },
+  {
+   "dia": "2026-10-17",
+   "id": 3203,
+   "titulo": "Derechos Especiales De Giro"
   }
  ]
 }
