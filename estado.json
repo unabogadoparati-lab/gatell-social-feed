@@ -65,7 +65,10 @@
   "3407": 1,
   "3368": 1,
   "3372": 1,
-  "3203": 1
+  "3203": 1,
+  "3177": 1,
+  "3129": 1,
+  "2864": 1
  },
  "historial": [
   {
@@ -412,6 +415,21 @@
    "dia": "2026-10-17",
    "id": 3203,
    "titulo": "Derechos Especiales De Giro"
+  },
+  {
+   "dia": "2026-10-18",
+   "id": 3177,
+   "titulo": "El procés"
+  },
+  {
+   "dia": "2026-10-18",
+   "id": 3129,
+   "titulo": "Regulación de las criptomonedas"
+  },
+  {
+   "dia": "2026-10-18",
+   "id": 2864,
+   "titulo": "Cyberwar"
   }
  ]
 }
