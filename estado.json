@@ -68,7 +68,10 @@
   "3203": 1,
   "3177": 1,
   "3129": 1,
-  "2864": 1
+  "2864": 1,
+  "3077": 1,
+  "3029": 1,
+  "2976": 1
  },
  "historial": [
   {
@@ -430,6 +433,21 @@
    "dia": "2026-10-18",
    "id": 2864,
    "titulo": "Cyberwar"
+  },
+  {
+   "dia": "2026-10-19",
+   "id": 3077,
+   "titulo": "Ley de Medios de Pago"
+  },
+  {
+   "dia": "2026-10-19",
+   "id": 3029,
+   "titulo": "Enmiendas de Estados Unidos"
+  },
+  {
+   "dia": "2026-10-19",
+   "id": 2976,
+   "titulo": "Compliance Penal en España: Normativa, Responsabilidad y Prevención"
   }
  ]
 }
