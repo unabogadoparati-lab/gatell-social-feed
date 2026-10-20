@@ -71,7 +71,10 @@
   "2864": 1,
   "3077": 1,
   "3029": 1,
-  "2976": 1
+  "2976": 1,
+  "3925": 1,
+  "3939": 1,
+  "3964": 1
  },
  "historial": [
   {
@@ -448,6 +451,21 @@
    "dia": "2026-10-19",
    "id": 2976,
    "titulo": "Compliance Penal en España: Normativa, Responsabilidad y Prevención"
+  },
+  {
+   "dia": "2026-10-20",
+   "id": 3925,
+   "titulo": "Optimizando la Práctica Legal: La Importancia de los Registros Electrónicos para Abogados en la Era Digital"
+  },
+  {
+   "dia": "2026-10-20",
+   "id": 3939,
+   "titulo": "La Sociedad Holding: Una Estrategia Legal para la Gestión de Activos"
+  },
+  {
+   "dia": "2026-10-20",
+   "id": 3964,
+   "titulo": "Juicios contra el Covid"
   }
  ]
 }
