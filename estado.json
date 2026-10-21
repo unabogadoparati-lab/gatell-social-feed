@@ -74,7 +74,10 @@
   "2976": 1,
   "3925": 1,
   "3939": 1,
-  "3964": 1
+  "3964": 1,
+  "3933": 1,
+  "3867": 1,
+  "3841": 1
  },
  "historial": [
   {
@@ -466,6 +469,21 @@
    "dia": "2026-10-20",
    "id": 3964,
    "titulo": "Juicios contra el Covid"
+  },
+  {
+   "dia": "2026-10-21",
+   "id": 3933,
+   "titulo": "Los 10 Mejores Trucos para Invertir en Inmuebles en España"
+  },
+  {
+   "dia": "2026-10-21",
+   "id": 3867,
+   "titulo": "Proteger tus Criptomonedas con Trezor: Es un monedero seguro?"
+  },
+  {
+   "dia": "2026-10-21",
+   "id": 3841,
+   "titulo": "El IVA en España y las Monedas Virtuales: Aspectos Importantes a Considerar"
   }
  ]
 }
