@@ -77,7 +77,10 @@
   "3964": 1,
   "3933": 1,
   "3867": 1,
-  "3841": 1
+  "3841": 1,
+  "3808": 1,
+  "3793": 1,
+  "3672": 1
  },
  "historial": [
   {
@@ -484,6 +487,21 @@
    "dia": "2026-10-21",
    "id": 3841,
    "titulo": "El IVA en España y las Monedas Virtuales: Aspectos Importantes a Considerar"
+  },
+  {
+   "dia": "2026-10-22",
+   "id": 3808,
+   "titulo": "Es obligatoria la vacuna del Covid19"
+  },
+  {
+   "dia": "2026-10-22",
+   "id": 3793,
+   "titulo": "Son obligatorias las mascarillas"
+  },
+  {
+   "dia": "2026-10-22",
+   "id": 3672,
+   "titulo": "El Teletrabajo para Abogados: Una Nueva Perspectiva en la Práctica Legal"
   }
  ]
 }
