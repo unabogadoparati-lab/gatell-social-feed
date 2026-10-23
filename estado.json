@@ -80,7 +80,10 @@
   "3841": 1,
   "3808": 1,
   "3793": 1,
-  "3672": 1
+  "3672": 1,
+  "3637": 1,
+  "3547": 1,
+  "3470": 1
  },
  "historial": [
   {
@@ -502,6 +505,21 @@
    "dia": "2026-10-22",
    "id": 3672,
    "titulo": "El Teletrabajo para Abogados: Una Nueva Perspectiva en la Práctica Legal"
+  },
+  {
+   "dia": "2026-10-23",
+   "id": 3637,
+   "titulo": "Erte"
+  },
+  {
+   "dia": "2026-10-23",
+   "id": 3547,
+   "titulo": "El Abandono de Familia en España: Un Problema Social Pendiente"
+  },
+  {
+   "dia": "2026-10-23",
+   "id": 3470,
+   "titulo": "Culpabilidad en las sanciones Tributarias"
   }
  ]
 }
