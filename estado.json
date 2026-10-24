@@ -83,7 +83,10 @@
   "3672": 1,
   "3637": 1,
   "3547": 1,
-  "3470": 1
+  "3470": 1,
+  "3446": 1,
+  "3424": 1,
+  "3313": 1
  },
  "historial": [
   {
@@ -520,6 +523,21 @@
    "dia": "2026-10-23",
    "id": 3470,
    "titulo": "Culpabilidad en las sanciones Tributarias"
+  },
+  {
+   "dia": "2026-10-24",
+   "id": 3446,
+   "titulo": "Deducción de gastos trabajar en casa"
+  },
+  {
+   "dia": "2026-10-24",
+   "id": 3424,
+   "titulo": "Presentación de impuestos fuera de plazo"
+  },
+  {
+   "dia": "2026-10-24",
+   "id": 3313,
+   "titulo": "Embargo de Cuentas Corrientes en España: Guía Completa"
   }
  ]
 }
