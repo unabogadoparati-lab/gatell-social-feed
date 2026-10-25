@@ -86,7 +86,10 @@
   "3470": 1,
   "3446": 1,
   "3424": 1,
-  "3313": 1
+  "3313": 1,
+  "3279": 1,
+  "3259": 1,
+  "3151": 1
  },
  "historial": [
   {
@@ -538,6 +541,21 @@
    "dia": "2026-10-24",
    "id": 3313,
    "titulo": "Embargo de Cuentas Corrientes en España: Guía Completa"
+  },
+  {
+   "dia": "2026-10-25",
+   "id": 3279,
+   "titulo": "Declaración renta 2019"
+  },
+  {
+   "dia": "2026-10-25",
+   "id": 3259,
+   "titulo": "Impugnación Alta Laboral"
+  },
+  {
+   "dia": "2026-10-25",
+   "id": 3151,
+   "titulo": "Acoso Laboral"
   }
  ]
 }
