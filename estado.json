@@ -89,7 +89,10 @@
   "3313": 1,
   "3279": 1,
   "3259": 1,
-  "3151": 1
+  "3151": 1,
+  "3065": 1,
+  "2857": 1,
+  "2783": 1
  },
  "historial": [
   {
@@ -556,6 +559,21 @@
    "dia": "2026-10-25",
    "id": 3151,
    "titulo": "Acoso Laboral"
+  },
+  {
+   "dia": "2026-10-26",
+   "id": 3065,
+   "titulo": "Modelo 720"
+  },
+  {
+   "dia": "2026-10-26",
+   "id": 2857,
+   "titulo": "El Internet de las  Cosas"
+  },
+  {
+   "dia": "2026-10-26",
+   "id": 2783,
+   "titulo": "Como evitar un ataque informático"
   }
  ]
 }
