@@ -92,7 +92,10 @@
   "3151": 1,
   "3065": 1,
   "2857": 1,
-  "2783": 1
+  "2783": 1,
+  "2636": 1,
+  "2365": 1,
+  "2568": 1
  },
  "historial": [
   {
@@ -574,6 +577,21 @@
    "dia": "2026-10-26",
    "id": 2783,
    "titulo": "Como evitar un ataque informático"
+  },
+  {
+   "dia": "2026-10-27",
+   "id": 2636,
+   "titulo": "Operaciones de alta frecuencia"
+  },
+  {
+   "dia": "2026-10-27",
+   "id": 2365,
+   "titulo": "Frases de justicia"
+  },
+  {
+   "dia": "2026-10-27",
+   "id": 2568,
+   "titulo": "Como denunciar a una compañía"
   }
  ]
 }
