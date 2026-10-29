@@ -98,7 +98,10 @@
   "2568": 1,
   "2548": 1,
   "2520": 1,
-  "2473": 1
+  "2473": 1,
+  "2419": 1,
+  "2346": 1,
+  "2267": 1
  },
  "historial": [
   {
@@ -610,6 +613,21 @@
    "dia": "2026-10-28",
    "id": 2473,
    "titulo": "Guía Completa para Reclamar la Clausula IRPH en España: Todo lo que Debes Saber"
+  },
+  {
+   "dia": "2026-10-29",
+   "id": 2419,
+   "titulo": "Telexfree"
+  },
+  {
+   "dia": "2026-10-29",
+   "id": 2346,
+   "titulo": "La Importancia del Seguro de Alquiler en España: Protegiendo tu Hogar y tus Inversiones"
+  },
+  {
+   "dia": "2026-10-29",
+   "id": 2267,
+   "titulo": "Titulizacion Hipotecaria"
   }
  ]
 }
