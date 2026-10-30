@@ -101,7 +101,10 @@
   "2473": 1,
   "2419": 1,
   "2346": 1,
-  "2267": 1
+  "2267": 1,
+  "2244": 1,
+  "2184": 1,
+  "2115": 1
  },
  "historial": [
   {
@@ -628,6 +631,21 @@
    "dia": "2026-10-29",
    "id": 2267,
    "titulo": "Titulizacion Hipotecaria"
+  },
+  {
+   "dia": "2026-10-30",
+   "id": 2244,
+   "titulo": "Representación legal en la conciliación"
+  },
+  {
+   "dia": "2026-10-30",
+   "id": 2184,
+   "titulo": "Comprar sobre plano"
+  },
+  {
+   "dia": "2026-10-30",
+   "id": 2115,
+   "titulo": "Indemnización por accidente de circulación"
   }
  ]
 }
