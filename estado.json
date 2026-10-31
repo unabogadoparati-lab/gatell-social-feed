@@ -104,7 +104,10 @@
   "2267": 1,
   "2244": 1,
   "2184": 1,
-  "2115": 1
+  "2115": 1,
+  "2088": 1,
+  "1896": 1,
+  "1784": 1
  },
  "historial": [
   {
@@ -646,6 +649,21 @@
    "dia": "2026-10-30",
    "id": 2115,
    "titulo": "Indemnización por accidente de circulación"
+  },
+  {
+   "dia": "2026-10-31",
+   "id": 2088,
+   "titulo": "Esquemas Piramidales"
+  },
+  {
+   "dia": "2026-10-31",
+   "id": 1896,
+   "titulo": "Peliculas de abogados"
+  },
+  {
+   "dia": "2026-10-31",
+   "id": 1784,
+   "titulo": "Legalizar la droga"
   }
  ]
 }
