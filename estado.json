@@ -107,7 +107,10 @@
   "2115": 1,
   "2088": 1,
   "1896": 1,
-  "1784": 1
+  "1784": 1,
+  "5584": 1,
+  "1762": 1,
+  "1576": 1
  },
  "historial": [
   {
@@ -664,6 +667,21 @@
    "dia": "2026-10-31",
    "id": 1784,
    "titulo": "Legalizar la droga"
+  },
+  {
+   "dia": "2026-11-01",
+   "id": 5584,
+   "titulo": "El Imperio de la Ley y la Trinchera de los Juzgados: Una Conversación Fraterna con Javier Cremades y la Realidad del Abogado de Sala"
+  },
+  {
+   "dia": "2026-11-01",
+   "id": 1762,
+   "titulo": "Legitima defensa"
+  },
+  {
+   "dia": "2026-11-01",
+   "id": 1576,
+   "titulo": "Reclamación contra una compañía aerea"
   }
  ]
 }
