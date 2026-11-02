@@ -108,9 +108,11 @@
   "2088": 1,
   "1896": 1,
   "1784": 1,
-  "5584": 1,
+  "5584": 2,
   "1762": 1,
-  "1576": 1
+  "1576": 1,
+  "1425": 1,
+  "1327": 1
  },
  "historial": [
   {
@@ -682,6 +684,21 @@
    "dia": "2026-11-01",
    "id": 1576,
    "titulo": "Reclamación contra una compañía aerea"
+  },
+  {
+   "dia": "2026-11-02",
+   "id": 5584,
+   "titulo": "El Imperio de la Ley y la Trinchera de los Juzgados: Una Conversación Fraterna con Javier Cremades y la Realidad del Abogado de Sala"
+  },
+  {
+   "dia": "2026-11-02",
+   "id": 1425,
+   "titulo": "Ataques Ddos Denegacion de Servicios"
+  },
+  {
+   "dia": "2026-11-02",
+   "id": 1327,
+   "titulo": "Tributación pensión de alimentos"
   }
  ]
 }
