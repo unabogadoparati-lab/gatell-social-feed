@@ -112,7 +112,10 @@
   "1762": 1,
   "1576": 1,
   "1425": 1,
-  "1327": 1
+  "1327": 1,
+  "1140": 1,
+  "1237": 1,
+  "1228": 1
  },
  "historial": [
   {
@@ -699,6 +702,21 @@
    "dia": "2026-11-02",
    "id": 1327,
    "titulo": "Tributación pensión de alimentos"
+  },
+  {
+   "dia": "2026-11-03",
+   "id": 1140,
+   "titulo": "Como funciona una red distribuida"
+  },
+  {
+   "dia": "2026-11-03",
+   "id": 1237,
+   "titulo": "Modificar la prodigalidad"
+  },
+  {
+   "dia": "2026-11-03",
+   "id": 1228,
+   "titulo": "Contratos Inteligentes"
   }
  ]
 }
