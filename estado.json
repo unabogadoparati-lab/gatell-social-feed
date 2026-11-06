@@ -121,7 +121,10 @@
   "1146": 1,
   "2279": 1,
   "1132": 1,
-  "1112": 1
+  "1112": 1,
+  "1092": 1,
+  "1076": 1,
+  "1063": 1
  },
  "historial": [
   {
@@ -753,6 +756,21 @@
    "dia": "2026-11-05",
    "id": 1112,
    "titulo": "Es legal la deep Web"
+  },
+  {
+   "dia": "2026-11-06",
+   "id": 1092,
+   "titulo": "The China Hustle"
+  },
+  {
+   "dia": "2026-11-06",
+   "id": 1076,
+   "titulo": "Santander aplica blockchain a su transacciones"
+  },
+  {
+   "dia": "2026-11-06",
+   "id": 1063,
+   "titulo": "Nueva Sentencia impuesto actos juridicos documentados"
   }
  ]
 }
