@@ -124,7 +124,10 @@
   "1112": 1,
   "1092": 1,
   "1076": 1,
-  "1063": 1
+  "1063": 1,
+  "1049": 1,
+  "1040": 1,
+  "1009": 1
  },
  "historial": [
   {
@@ -771,6 +774,21 @@
    "dia": "2026-11-06",
    "id": 1063,
    "titulo": "Nueva Sentencia impuesto actos juridicos documentados"
+  },
+  {
+   "dia": "2026-11-07",
+   "id": 1049,
+   "titulo": "Ley Juridicción Voluntaria"
+  },
+  {
+   "dia": "2026-11-07",
+   "id": 1040,
+   "titulo": "Contestación Movistar reclamacion a Telecomunicaciones"
+  },
+  {
+   "dia": "2026-11-07",
+   "id": 1009,
+   "titulo": "Ingles Jurídico"
   }
  ]
 }
