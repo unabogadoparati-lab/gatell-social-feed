@@ -127,7 +127,10 @@
   "1063": 1,
   "1049": 1,
   "1040": 1,
-  "1009": 1
+  "1009": 1,
+  "991": 1,
+  "971": 1,
+  "951": 1
  },
  "historial": [
   {
@@ -789,6 +792,21 @@
    "dia": "2026-11-07",
    "id": 1009,
    "titulo": "Ingles Jurídico"
+  },
+  {
+   "dia": "2026-11-08",
+   "id": 991,
+   "titulo": "Evolution Market Group"
+  },
+  {
+   "dia": "2026-11-08",
+   "id": 971,
+   "titulo": "Orden Europea de Detención"
+  },
+  {
+   "dia": "2026-11-08",
+   "id": 951,
+   "titulo": "Renta Básica"
   }
  ]
 }
