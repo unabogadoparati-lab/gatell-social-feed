@@ -130,7 +130,10 @@
   "1009": 1,
   "991": 1,
   "971": 1,
-  "951": 1
+  "951": 1,
+  "901": 1,
+  "804": 1,
+  "819": 1
  },
  "historial": [
   {
@@ -807,6 +810,21 @@
    "dia": "2026-11-08",
    "id": 951,
    "titulo": "Renta Básica"
+  },
+  {
+   "dia": "2026-11-09",
+   "id": 901,
+   "titulo": "Caso Gabriel y la prision permanente Revisable"
+  },
+  {
+   "dia": "2026-11-09",
+   "id": 804,
+   "titulo": "La Figura del Albacea en España: Todo lo que Necesitas Saber Introducción"
+  },
+  {
+   "dia": "2026-11-09",
+   "id": 819,
+   "titulo": "Reclamacion ante la secretaria general de telecomunicaciones"
   }
  ]
 }
