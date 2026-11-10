@@ -133,7 +133,10 @@
   "951": 1,
   "901": 1,
   "804": 1,
-  "819": 1
+  "819": 1,
+  "795": 1,
+  "789": 1,
+  "761": 1
  },
  "historial": [
   {
@@ -825,6 +828,21 @@
    "dia": "2026-11-09",
    "id": 819,
    "titulo": "Reclamacion ante la secretaria general de telecomunicaciones"
+  },
+  {
+   "dia": "2026-11-10",
+   "id": 795,
+   "titulo": "¿Qué se Puede Embargar en un Proceso Judicial en España?"
+  },
+  {
+   "dia": "2026-11-10",
+   "id": 789,
+   "titulo": "Tenga control sobre los seguros"
+  },
+  {
+   "dia": "2026-11-10",
+   "id": 761,
+   "titulo": "Como reclamar contra Vodafone"
   }
  ]
 }
