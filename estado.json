@@ -136,7 +136,10 @@
   "819": 1,
   "795": 1,
   "789": 1,
-  "761": 1
+  "761": 1,
+  "713": 1,
+  "693": 1,
+  "666": 1
  },
  "historial": [
   {
@@ -843,6 +846,21 @@
    "dia": "2026-11-10",
    "id": 761,
    "titulo": "Como reclamar contra Vodafone"
+  },
+  {
+   "dia": "2026-11-11",
+   "id": 713,
+   "titulo": "Titulizacion de prestamos hipotecarios"
+  },
+  {
+   "dia": "2026-11-11",
+   "id": 693,
+   "titulo": "Cuanto tarda una transferencia"
+  },
+  {
+   "dia": "2026-11-11",
+   "id": 666,
+   "titulo": "Contratos inteligentes y technologia blockchain"
   }
  ]
 }
