@@ -139,7 +139,10 @@
   "761": 1,
   "713": 1,
   "693": 1,
-  "666": 1
+  "666": 1,
+  "647": 1,
+  "392": 1,
+  "374": 1
  },
  "historial": [
   {
@@ -861,6 +864,21 @@
    "dia": "2026-11-11",
    "id": 666,
    "titulo": "Contratos inteligentes y technologia blockchain"
+  },
+  {
+   "dia": "2026-11-12",
+   "id": 647,
+   "titulo": "Coeficientes de participacion"
+  },
+  {
+   "dia": "2026-11-12",
+   "id": 392,
+   "titulo": "Cuidado con los seguros de viajes"
+  },
+  {
+   "dia": "2026-11-12",
+   "id": 374,
+   "titulo": "Rafa Nadal y la acusación de dopaje"
   }
  ]
 }
