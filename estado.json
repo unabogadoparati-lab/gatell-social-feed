@@ -145,7 +145,10 @@
   "374": 1,
   "331": 1,
   "316": 1,
-  "242": 1
+  "242": 1,
+  "140": 1,
+  "133": 1,
+  "5115": 1
  },
  "historial": [
   {
@@ -897,6 +900,21 @@
    "dia": "2026-11-13",
    "id": 242,
    "titulo": "Redes P2P"
+  },
+  {
+   "dia": "2026-11-14",
+   "id": 140,
+   "titulo": "Comisiones Bancarias"
+  },
+  {
+   "dia": "2026-11-14",
+   "id": 133,
+   "titulo": "Clausulas de vencimiento anticipado"
+  },
+  {
+   "dia": "2026-11-14",
+   "id": 5115,
+   "titulo": "Reclamacion contra bancos"
   }
  ]
 }
