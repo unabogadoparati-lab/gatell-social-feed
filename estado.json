@@ -151,7 +151,10 @@
   "5115": 1,
   "3000": 1,
   "2958": 1,
-  "2941": 1
+  "2941": 1,
+  "2889": 1,
+  "2823": 1,
+  "2832": 1
  },
  "historial": [
   {
@@ -933,6 +936,21 @@
    "dia": "2026-11-15",
    "id": 2941,
    "titulo": "Покупка недвижимости в Коста-дель-Соль"
+  },
+  {
+   "dia": "2026-11-16",
+   "id": 2889,
+   "titulo": "Orden de Alejamiento en España: Protección Legal Contra la Violencia"
+  },
+  {
+   "dia": "2026-11-16",
+   "id": 2823,
+   "titulo": "High Frequency Trading"
+  },
+  {
+   "dia": "2026-11-16",
+   "id": 2832,
+   "titulo": "Litigios deportivos en Andalucía"
   }
  ]
 }
