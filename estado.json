@@ -154,7 +154,10 @@
   "2941": 1,
   "2889": 1,
   "2823": 1,
-  "2832": 1
+  "2832": 1,
+  "2717": 1,
+  "2498": 1,
+  "2435": 1
  },
  "historial": [
   {
@@ -951,6 +954,21 @@
    "dia": "2026-11-16",
    "id": 2832,
    "titulo": "Litigios deportivos en Andalucía"
+  },
+  {
+   "dia": "2026-11-17",
+   "id": 2717,
+   "titulo": "Como hacer una factura"
+  },
+  {
+   "dia": "2026-11-17",
+   "id": 2498,
+   "titulo": "Tarjetas Black"
+  },
+  {
+   "dia": "2026-11-17",
+   "id": 2435,
+   "titulo": "Buying a property in Costa del Sol"
   }
  ]
 }
