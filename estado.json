@@ -157,7 +157,10 @@
   "2832": 1,
   "2717": 1,
   "2498": 1,
-  "2435": 1
+  "2435": 1,
+  "2291": 1,
+  "2158": 1,
+  "2008": 1
  },
  "historial": [
   {
@@ -969,6 +972,21 @@
    "dia": "2026-11-17",
    "id": 2435,
    "titulo": "Buying a property in Costa del Sol"
+  },
+  {
+   "dia": "2026-11-18",
+   "id": 2291,
+   "titulo": "Delito de dopaje en el deporte"
+  },
+  {
+   "dia": "2026-11-18",
+   "id": 2158,
+   "titulo": "Cláusulas de sumisión al TAS"
+  },
+  {
+   "dia": "2026-11-18",
+   "id": 2008,
+   "titulo": "Cómo Resolver Conflictos de Pareja: Estrategias Efectivas para una Relación Saludable"
   }
  ]
 }
