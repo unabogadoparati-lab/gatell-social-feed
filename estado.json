@@ -160,7 +160,10 @@
   "2435": 1,
   "2291": 1,
   "2158": 1,
-  "2008": 1
+  "2008": 1,
+  "1841": 1,
+  "1808": 1,
+  "1744": 1
  },
  "historial": [
   {
@@ -987,6 +990,21 @@
    "dia": "2026-11-18",
    "id": 2008,
    "titulo": "Cómo Resolver Conflictos de Pareja: Estrategias Efectivas para una Relación Saludable"
+  },
+  {
+   "dia": "2026-11-19",
+   "id": 1841,
+   "titulo": "Self Defense in Spain"
+  },
+  {
+   "dia": "2026-11-19",
+   "id": 1808,
+   "titulo": "Contrato de patrocinio deportivo"
+  },
+  {
+   "dia": "2026-11-19",
+   "id": 1744,
+   "titulo": "Divorce Lawyer in Malaga"
   }
  ]
 }
