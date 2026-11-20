@@ -163,7 +163,10 @@
   "2008": 1,
   "1841": 1,
   "1808": 1,
-  "1744": 1
+  "1744": 1,
+  "1665": 1,
+  "1594": 1,
+  "1583": 1
  },
  "historial": [
   {
@@ -1005,6 +1008,21 @@
    "dia": "2026-11-19",
    "id": 1744,
    "titulo": "Divorce Lawyer in Malaga"
+  },
+  {
+   "dia": "2026-11-20",
+   "id": 1665,
+   "titulo": "How to claim against Paypal"
+  },
+  {
+   "dia": "2026-11-20",
+   "id": 1594,
+   "titulo": "Driving under the influence"
+  },
+  {
+   "dia": "2026-11-20",
+   "id": 1583,
+   "titulo": "Urgent Lawyer in Málaga"
   }
  ]
 }
