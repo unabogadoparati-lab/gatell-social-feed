@@ -166,7 +166,10 @@
   "1744": 1,
   "1665": 1,
   "1594": 1,
-  "1583": 1
+  "1583": 1,
+  "1548": 1,
+  "1511": 1,
+  "1438": 1
  },
  "historial": [
   {
@@ -1023,6 +1026,21 @@
    "dia": "2026-11-20",
    "id": 1583,
    "titulo": "Urgent Lawyer in Málaga"
+  },
+  {
+   "dia": "2026-11-21",
+   "id": 1548,
+   "titulo": "Solicitor Regulators Authority"
+  },
+  {
+   "dia": "2026-11-21",
+   "id": 1511,
+   "titulo": "Solicitors Regulator Authority"
+  },
+  {
+   "dia": "2026-11-21",
+   "id": 1438,
+   "titulo": "Accidentes en gimnasios"
   }
  ]
 }
