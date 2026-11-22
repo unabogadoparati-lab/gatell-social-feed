@@ -169,7 +169,10 @@
   "1583": 1,
   "1548": 1,
   "1511": 1,
-  "1438": 1
+  "1438": 1,
+  "1387": 1,
+  "1302": 1,
+  "1285": 1
  },
  "historial": [
   {
@@ -1041,6 +1044,21 @@
    "dia": "2026-11-21",
    "id": 1438,
    "titulo": "Accidentes en gimnasios"
+  },
+  {
+   "dia": "2026-11-22",
+   "id": 1387,
+   "titulo": "Guía Definitiva para Reclamar a PayPal: Resuelve Disputas y Recupera tu Dinero"
+  },
+  {
+   "dia": "2026-11-22",
+   "id": 1302,
+   "titulo": "VAR"
+  },
+  {
+   "dia": "2026-11-22",
+   "id": 1285,
+   "titulo": "Falsos Autonomos"
   }
  ]
 }
