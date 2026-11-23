@@ -172,7 +172,10 @@
   "1438": 1,
   "1387": 1,
   "1302": 1,
-  "1285": 1
+  "1285": 1,
+  "1142": 1,
+  "933": 1,
+  "869": 1
  },
  "historial": [
   {
@@ -1059,6 +1062,21 @@
    "dia": "2026-11-22",
    "id": 1285,
    "titulo": "Falsos Autonomos"
+  },
+  {
+   "dia": "2026-11-23",
+   "id": 1142,
+   "titulo": "Juego limpio en el Karate"
+  },
+  {
+   "dia": "2026-11-23",
+   "id": 933,
+   "titulo": "Plataforma para abogados"
+  },
+  {
+   "dia": "2026-11-23",
+   "id": 869,
+   "titulo": "Como hacer la factura digital"
   }
  ]
 }
