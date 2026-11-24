@@ -175,7 +175,10 @@
   "1285": 1,
   "1142": 1,
   "933": 1,
-  "869": 1
+  "869": 1,
+  "806": 1,
+  "755": 1,
+  "738": 1
  },
  "historial": [
   {
@@ -1077,6 +1080,21 @@
    "dia": "2026-11-23",
    "id": 869,
    "titulo": "Como hacer la factura digital"
+  },
+  {
+   "dia": "2026-11-24",
+   "id": 806,
+   "titulo": "Hacienda vigila las cuentas bancarias"
+  },
+  {
+   "dia": "2026-11-24",
+   "id": 755,
+   "titulo": "Que es una factura proforma"
+  },
+  {
+   "dia": "2026-11-24",
+   "id": 738,
+   "titulo": "Plusvalía"
   }
  ]
 }
