@@ -178,7 +178,10 @@
   "869": 1,
   "806": 1,
   "755": 1,
-  "738": 1
+  "738": 1,
+  "618": 1,
+  "610": 1,
+  "530": 1
  },
  "historial": [
   {
@@ -1095,6 +1098,21 @@
    "dia": "2026-11-24",
    "id": 738,
    "titulo": "Plusvalía"
+  },
+  {
+   "dia": "2026-11-25",
+   "id": 618,
+   "titulo": "Factura digital"
+  },
+  {
+   "dia": "2026-11-25",
+   "id": 610,
+   "titulo": "Poder para abogado"
+  },
+  {
+   "dia": "2026-11-25",
+   "id": 530,
+   "titulo": "Legalidad de las cámaras de seguridad"
   }
  ]
 }
