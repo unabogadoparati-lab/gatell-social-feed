@@ -181,7 +181,10 @@
   "738": 1,
   "618": 1,
   "610": 1,
-  "530": 1
+  "530": 1,
+  "511": 1,
+  "492": 1,
+  "437": 1
  },
  "historial": [
   {
@@ -1113,6 +1116,21 @@
    "dia": "2026-11-25",
    "id": 530,
    "titulo": "Legalidad de las cámaras de seguridad"
+  },
+  {
+   "dia": "2026-11-26",
+   "id": 511,
+   "titulo": "Abogado de empresa"
+  },
+  {
+   "dia": "2026-11-26",
+   "id": 492,
+   "titulo": "Ley Organica de Proteccion de datos"
+  },
+  {
+   "dia": "2026-11-26",
+   "id": 437,
+   "titulo": "Plan de pensiones"
   }
  ]
 }
