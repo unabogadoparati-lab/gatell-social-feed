@@ -184,7 +184,10 @@
   "530": 1,
   "511": 1,
   "492": 1,
-  "437": 1
+  "437": 1,
+  "422": 1,
+  "365": 1,
+  "352": 1
  },
  "historial": [
   {
@@ -1131,6 +1134,21 @@
    "dia": "2026-11-26",
    "id": 437,
    "titulo": "Plan de pensiones"
+  },
+  {
+   "dia": "2026-11-27",
+   "id": 422,
+   "titulo": "Deduccion de gastos por regalos"
+  },
+  {
+   "dia": "2026-11-27",
+   "id": 365,
+   "titulo": "Como va el testamento"
+  },
+  {
+   "dia": "2026-11-27",
+   "id": 352,
+   "titulo": "Como hacer clientes"
   }
  ]
 }
