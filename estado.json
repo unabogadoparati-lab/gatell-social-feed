@@ -187,7 +187,10 @@
   "437": 1,
   "422": 1,
   "365": 1,
-  "352": 1
+  "352": 1,
+  "297": 1,
+  "280": 1,
+  "258": 1
  },
  "historial": [
   {
@@ -1149,6 +1152,21 @@
    "dia": "2026-11-27",
    "id": 352,
    "titulo": "Como hacer clientes"
+  },
+  {
+   "dia": "2026-11-28",
+   "id": 297,
+   "titulo": "Certificado de aeronavegabilidad"
+  },
+  {
+   "dia": "2026-11-28",
+   "id": 280,
+   "titulo": "La Falta de Respeto en el Trabajo en España: Un Reto para la Cultura Laboral"
+  },
+  {
+   "dia": "2026-11-28",
+   "id": 258,
+   "titulo": "Retencion por indemnización"
   }
  ]
 }
